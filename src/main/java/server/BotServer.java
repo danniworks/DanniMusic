@@ -15,7 +15,7 @@ public class BotServer {
     private JDA jda;
 
     //Temp Var
-    private String token = "ODk3MjI0NDg5OTI5MTc5MTg3.YWSjbA.t8X6iIaYOyTmQuuD8TPiJsbRsKc";
+    private String token = "";
 
     public BotServer() {
         CommandEventListener eventListener = new CommandEventListener();
